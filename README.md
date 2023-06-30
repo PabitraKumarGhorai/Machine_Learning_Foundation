@@ -1,1 +1,1 @@
-# This project is created for build Machine Laerning Projects and export it as package
+# This project is created to build Machine Learning Projects and export it as a package
